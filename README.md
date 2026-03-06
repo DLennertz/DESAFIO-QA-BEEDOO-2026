@@ -66,20 +66,7 @@ Os pontos considerados mais críticos para teste foram:
 
 ---
 
-# 6. Estratégia de testes
-
-Durante a análise foram utilizados os seguintes tipos de teste:
-
-• Testes exploratórios
-• Testes funcionais
-• Testes negativos
-• Testes de validação de campos
-
-Os cenários de teste foram elaborados considerando tanto o fluxo principal da aplicação quanto possíveis comportamentos inesperados.
-
----
-
-# 7. Cenários e casos de teste
+# 6. Cenários e casos de teste
 
 Os cenários e casos de teste foram documentados na planilha abaixo:
 
@@ -87,7 +74,7 @@ https://docs.google.com/spreadsheets/d/1z7ClvrS8iONiO-ExL8Zc8aCN-dKqv1XyM4u_sgek
 
 ---
 
-# 8. Execução dos testes
+# 7. Execução dos testes
 
 Os cenários criados foram executados diretamente na aplicação.
 
@@ -95,14 +82,14 @@ Durante a execução foram registradas evidências em forma de prints para compr
 
 ---
 
-# 9. Evidências
+# 8. Evidências
 
 As evidências da execução dos testes podem ser acessadas no link abaixo:
 
-[LINK GOOGLE DRIVE]
+https://drive.google.com/drive/folders/1z6HmQz8SX37uBDXFYV8z-u6cpn0NtnJj?usp=drive_link
 
 ---
 
-# 10. Bugs encontrados
+# 9. Bugs encontrados
 
 Os bugs identificados durante os testes foram documentados no relatório disponível neste repositório.
