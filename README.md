@@ -83,7 +83,7 @@ Os cenários de teste foram elaborados considerando tanto o fluxo principal da a
 
 Os cenários e casos de teste foram documentados na planilha abaixo:
 
-[LINK GOOGLE SHEETS]
+https://docs.google.com/spreadsheets/d/1z7ClvrS8iONiO-ExL8Zc8aCN-dKqv1XyM4u_sgekGJg/edit?usp=sharing
 
 ---
 
